@@ -1,0 +1,18 @@
+{
+  "projetos": [
+    {
+      "nome": "Café Central",
+      "descricao": "Site de uma cafeteria com foco em design simples.",
+      "tecnologia": "HTML e CSS",
+      "imagem": "",
+      "github": "https://github.com/seuusuario/cafe-central"
+    },
+    {
+      "nome": "TechEduca",
+      "descricao": "Site de uma escola de tecnologia.",
+      "tecnologia": "HTML, CSS e JS",
+      "imagem": "",
+      "github": "https://github.com/seuusuario/techeduca"
+    }
+  ]
+}
